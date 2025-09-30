@@ -4,7 +4,6 @@ int main()
     int i,s;
     int Numbers[s];
     int Max = Numbers[0];
-    int Min = Numbers[0];
     scanf("%d",&i);
     for(s=0 ; s<i ; s++)
     {
